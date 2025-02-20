@@ -36,7 +36,7 @@ recognizer = sr.Recognizer()
 nlp = spacy.load("en_core_web_sm")  # Install: pip install spacy; python -m spacy download en_core_web_sm
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyB5oyFwYboNBdXvQW5GPueoUG5VpzucYO8")
+genai.configure(api_key=" ")
 model = genai.GenerativeModel('gemini-pro')
 
 # Persistent memory with SQLite
