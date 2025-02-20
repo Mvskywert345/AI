@@ -57,6 +57,7 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
 ## Contact
 For any questions or collaboration opportunities, feel free to reach out via GitHub Issues or email.
 
