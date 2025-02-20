@@ -1,5 +1,7 @@
 # AI Project
 
+![Cat Noir](https://i.pinimg.com/originals/55/b9/75/55b9759f0dd8a5715f17c7f7b52fa706.gif)
+
 ## Overview
 Welcome to the **AI Project**! This repository contains an AI-powered assistant designed to provide intelligent responses, assist with various tasks, and integrate with different APIs to enhance its functionality.
 
@@ -61,4 +63,3 @@ For any questions or collaboration opportunities, feel free to reach out via Git
 ---
 ✨ Happy coding! 🚀
 
-![Cat Noir _ Miraculous Ladybug S5 _ Reunion (1)](https://github.com/user-attachments/assets/6ebd29a5-68fa-4518-8204-c17796141452)
