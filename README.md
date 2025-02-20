@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or collaboration opportunities, feel free to reach out via GitHub Issues or email.
 
 ---
-✨ Happy coding! 🚀
-![Cat Noir _ Miraculous Ladybug S5 _ Reunion (1)](https://github.com/user-attachments/assets/a84ee626-87f8-4601-a303-f6e44424737b)
 
+![Cat Noir _ Miraculous Ladybug S5 _ Reunion (1)](https://github.com/user-attachments/assets/a84ee626-87f8-4601-a303-f6e44424737b)
+✨ Happy coding! 🚀 bug out !!!
 
