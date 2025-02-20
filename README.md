@@ -1,7 +1,5 @@
 # AI Project
 
-<img src="https://i.pinimg.com/originals/55/b9/75/55b9759f0dd8a5715f17c7f7b52fa706.gif" width="400">
-
 ## Overview
 Welcome to the **AI Project**! This repository contains an AI-powered assistant designed to provide intelligent responses, assist with various tasks, and integrate with different APIs to enhance its functionality.
 
@@ -56,6 +54,7 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![Cat Noir _ Miraculous Ladybug S5 _ Reunion (1)](https://github.com/user-attachments/assets/a84ee626-87f8-4601-a303-f6e44424737b)
 
 
 ## Contact
